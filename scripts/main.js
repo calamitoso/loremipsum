@@ -1,0 +1,1 @@
+"use strict";var shopify=window.shopify||{};window.shopify.module=function(){var o="aaa";return{getA:function(){return o}}}(),console.log("shopify",shopify);
